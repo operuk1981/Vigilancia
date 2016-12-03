@@ -1,0 +1,8 @@
+{
+    "name": "diego/proyecto",
+    "description": "A short description of what your package does",
+    "require": {
+        "nette/mail": "^2.3",
+        "twig/twig": "^1.28"
+    }
+}
